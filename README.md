@@ -37,8 +37,3 @@ Project ini menampilkan desain login yang interaktif dengan animasi halus dan ta
 
 ---
 
-## ⚙️ Installation & Usage
-
-1. Clone repository:
-```bash
-git clone https://github.com/gangsarrz/animated-login-page1.git
