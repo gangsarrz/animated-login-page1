@@ -1,6 +1,6 @@
 # 🎨 Animated Login Page
 
-A simple and modern **animated login page** built using HTML and CSS.  
+Animasi login page simple dan modern dibuat dengan HTML, CSS, dan JAVASCRIPT.
 Project ini menampilkan desain login yang interaktif dengan animasi halus dan tampilan yang clean.
 
 ---
@@ -36,4 +36,23 @@ Project ini menampilkan desain login yang interaktif dengan animasi halus dan ta
 
 
 ---
+
+## 🚀 Installation / Clone
+
+Ikuti langkah berikut untuk menjalankan project di lokal:
+
+1. **Clone repository**
+```bash
+  git clone https://github.com/gangsarrz/animated-login-page1.git 
+ ```
+
+2. **Masuk ke folder project**
+ ```bash
+   cd animated-login-page1
+ ```
+
+4. Jalankan project
+
+   Buka file  ``` index.html  ```di browser
+
 
